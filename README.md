@@ -12,3 +12,7 @@ Relatore: Daniele Tabellini
 Laureando: Cristiano Chiti  
 Matricola: 52525  
 A.A. 2016/2017  
+
+#### parole
+Software, Didattica, Compensazione, Open Source, DSA, Inclusivo.
+
