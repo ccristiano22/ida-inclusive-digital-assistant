@@ -12,6 +12,6 @@ Laureando: Cristiano Chiti
 Matricola: 52525  
 A.A. 2016/2017  
 
-#### parole
+#### Parole chiave
 Software, Didattica, Compensazione, Open Source, DSA, Inclusivo.
 
