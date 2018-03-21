@@ -4,7 +4,7 @@ UNIVERSITÀ DEGLI STUDI DELLA REPUBBLICA DI SAN MARINO
 UNIVERSITÀ IUAV DI VENEZIA  
 LAUREA MAGISTRALE IN INTERACTION DESIGN  
 
-Titolo tesi:
+Titolo tesi:  
 IDA INCLUSIVE DIGITAL ASSISTANCE:    
 Design open source di assistente digitale per la didattica inclusiva di studenti con DSA.
 
