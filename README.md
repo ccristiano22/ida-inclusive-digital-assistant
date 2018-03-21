@@ -5,7 +5,7 @@ UNIVERSITÀ IUAV DI VENEZIA
 LAUREA MAGISTRALE IN INTERACTION DESIGN  
 
 Titolo tesi:
-IDA INCLUSIVE DIGITAL ASSISTANCE:  
+IDA INCLUSIVE DIGITAL ASSISTANCE:    
 Design open source di assistente digitale per la didattica inclusiva di studenti con DSA.
 
 Relatore: Daniele Tabellini  
