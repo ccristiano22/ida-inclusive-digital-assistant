@@ -1,1 +1,1 @@
-IDA Monitoraggio Webcam | [launch / open](http://dsii-2017-unirsm.github.io/ccristiano22/ida-inclusive-digital-assistant/prototipi/IDAwebcam/index.html) 
+IDA Monitoraggio Webcam | [launch / open](https://github.com/ccristiano22/ida-inclusive-digital-assistant/edit/master/prototipi/IDAwebcam/) 
