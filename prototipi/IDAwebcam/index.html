@@ -1,0 +1,74 @@
+<!--  IDA, INCLUSIVE DIGITAL ASSISTANCE: Design open source di assistente digitale per la didattica inclusiva di studenti con DSA.
+Relatore Daniele Tabellini Daniele Tabellini @fupete
+Laureando Cristiano Chiti @ccristiano22 © 2018 MIT License
+Push Notification,  Html5, bootstrap.css Line issue | San Marino, IT | 3.2018
+Educational purpose, made for Master's thesis in interaction design @UniRSM
+Università degli Studi della Repubblica di San Marino
+Università Iuav di Venezia
+Laurea Magistrale in Design
+This example uses Audun Mathias Øygard's clmtracker along with p5.js, p5.dom.js, and p5.sound.js
+     https://github.com/auduno/clmtrackr
+     http://p5js.org/ -->
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="clmtrackr.js"></script>
+    <script src="models/model_pca_20_svm.js"></script>
+    <script src="p5.js"></script>
+    <script src="p5.dom.js"></script>
+    <script src="p5.sound.js"></script>
+    <script src="webcam.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+    <style> body { padding: 0; margin: 0} </style>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse navbar-fixed-top">
+
+      <a class="navbar-brand" href="/Users/Cristiano/Desktop/Cristiano_Chiti_IDA/Home/index.html"><font style="vertical-align: inherit;">IDA</font></a>
+      <a class="navbar-brand" href="/Users/Cristiano/Desktop/Cristiano_Chiti_IDA/Notifiche/index.html"><font style="vertical-align: inherit;">Tempo</font></a>
+      <a class="navbar-brand" href="/Users/Cristiano/Desktop/Cristiano_Chiti_IDA/WebCam/index.html"><font style="vertical-align: inherit;">WebCam</font></a>
+      <a class="navbar-brand" href="/Users/Cristiano/Desktop/Cristiano_Chiti_IDA/info/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Info</font></font></a>
+
+    </nav>
+
+<div class="jumbotron" style="padding-top:50px; padding-bottom:100px;">
+  <div class="container">
+   <div class="row">
+     <div class="col-md-6" style="padding-top:100px;">
+       <h1 class="display-3"> IDA </h1>
+       <h3 class="display-3"> Monitoraggio webcam </h3>
+       <p><font style="vertical-aling:inherit;"> IDA sfrutta la webcam del  pc per mappare i lineamenti del volto
+         e rilevare fenomeni di stanchezza e disattenzione. Questo prototipo permette di attraverso
+       il rilevamento oculare di analizzare l'apertura delle palpebre (Area Oculare) per determinare sintomi di affaticamento</font></p>
+     </div>
+  </div>
+  </div>
+</div>
+
+<div class="container">
+ <div class="row">
+   <div class="col-md-6" style="padding-top:20px; padding-bottom:100px;">
+     <h3 class="display-3"> Processo di rilevamento oculare </h3>
+     <p><font style="vertical-aling:inherit;"> Afianco viene descritto il processo di funzionamento ideale del monitoraggio.
+     Durante la fase di studio la webcam rileva costantemente l'area oculare.
+     Se dutante lo studio la webcam dovesse rilevare una area oculare ridotta, comunica all' utente una notifica di avviso.</font></p>
+     <p></p>
+   </div>
+   <div class="col-md-6" style="padding-top:20px; padding-bottom:100px;">
+     <img class="img-responsive" src="img/schemaweb1.png" style="padding-top:30px;"></img>
+     <p></p>
+   </div>
+</div>
+</div>
+
+<footer class="footer navbar-fixed-bottom" style="background-color:white">
+    <hr style="margin:5px">
+    <p><div style="vertical-align: inherit; top:30px; padding-left:10px;"><font style="vertical-align: inherit;"><h6>Università degli Studi della Repubblica di San Marino / Università Iuav di Venezia / Corso di laurea in Disegno industriale / a.a. 2016–17 / Laureando: Cristiano Chiti / Relatore: Daniele Tabellini / IDA Inclusive Digital Assistant</h6></font></div></p>
+</footer>
+
+  </body>
+</html>
